@@ -1,3 +1,4 @@
 #!/usr/bin/env python3
 
-print(hello_world)
+def greetings():
+    print(hello_world)
